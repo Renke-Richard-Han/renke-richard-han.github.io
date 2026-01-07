@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='[#](https://www.infineon.com/)'>Infineon Technologies AG</a>. I am always devoted to make contributions to the society to make human beings life better and easier..
+subtitle: <a href='[https://www.infineon.com/]'>Infineon Technologies AG</a>. Am Campeon 1-15., 85579 Neubiberg, Germany
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Am Campeon 1-15 </p>
-    <p>85579 Neubiberg, Germany</p>
+    <p> </p>
+    <p></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -32,4 +32,4 @@ I obtained my Ph.D. degree in power electronics systems from [Aalborg University
 
 I received B.S. degree in Automation and M.S degree in Control Theory and Control Engineering from Northeastern University in 2013 and 2015, respectively,in China. Please check my CV for more details.
 
- Hence, I decided to move from Academic to Industry to explore more practical problems. From 08.2021 - 09.2023, as a system enginer (Pure R&D role) for industrial application such as reference design for low/medium power industrial applications from active transistor switching, circuit to control system design, high resolution semiconductor junction temperature monitor, and power module life time estimation.
+I am always devoted to make contributions to the society to make human beings life better and easier. Hence, I decided to move from Academic to Industry to explore more practical problems. From 08.2021 - 09.2023, as a system enginer (Pure R&D role) for industrial application such as reference design for low/medium power industrial applications from active transistor switching, circuit to control system design, high resolution semiconductor junction temperature monitor, and power module life time estimation.

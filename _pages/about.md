@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='[#](https://www.infineon.com/)'>Infineon Technologies AG</a>. I am always devoted to make contributions to the society to make human beings life better and easier..
 
 profile:
   align: right
@@ -32,11 +32,4 @@ I obtained my Ph.D. degree in power electronics systems from [Aalborg University
 
 I received B.S. degree in Automation and M.S degree in Control Theory and Control Engineering from Northeastern University in 2013 and 2015, respectively,in China. Please check my CV for more details.
 
-I am always devoted to make contributions to the society to make human beings lifes better and easier. Hence, I decided to move from Academic to Industry to explore more practical problems. From 08.2021 - 09.2023, as a system enginer (Pure R&D role) for industrial application such as reference design for low/medium power industrial applications from active transistor switching, circuit to control system design, high resolution semiconductor junction temperature monitor, and power module life time estimation.
-<!--
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
--->
+ Hence, I decided to move from Academic to Industry to explore more practical problems. From 08.2021 - 09.2023, as a system enginer (Pure R&D role) for industrial application such as reference design for low/medium power industrial applications from active transistor switching, circuit to control system design, high resolution semiconductor junction temperature monitor, and power module life time estimation.

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Infineon Technologies AG](https://www.infineon.com). Am Campeon 1-15., 85579 Neubiberg, Germany
+subtitle:  <a href='https://www.infineon.com/'>Infineon Technologies AG</a>. Am Campeon 1-15., 85579 Neubiberg, Germany
 
 profile:
   align: right

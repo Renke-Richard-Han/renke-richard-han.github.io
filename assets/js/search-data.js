@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-publications",
-          title: "Publications",
-          description: "Only important publications are shown here, for all publication list, please refer to [google scholar](https://scholar.google.com/citations?user=10_G8DYAAAAJ&amp;hl=zh-CN).",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
         },{id: "nav-blog",
           title: "Blog",
           description: "",

@@ -202,6 +202,9 @@ exclude:
   - _pages/profiles.md
   - _pages/teaching.md
   - _pages/publications.md
+  - _post/2023-04-25-audios.md
+  - _post/2024-01-27-advanced-images.md
+  - _post/2024-12-04-photo-gallery.md
 keep_files:
   - CNAME
   - .nojekyll

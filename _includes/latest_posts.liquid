@@ -46,15 +46,8 @@
               {% else %}
                 <a class="news-title" href="{{ item.redirect | relative_url }}">{{ item.title }}</a>
               {% endif %}
-
-              {% if post.excerpt %}  
-                <div class="post-excerpt">  
-                  {{ post.excerpt }}  
-                  <a href="{{ post.url | relative_url }}">Continue reading →</a>  
-                </div>  
-              {% else %}  
-                <div class="post-content">{{ post.content }}</div>  
-              {% endif %}
+              <div class="post-content">{{ post.content }}</div>  
+              
             </td>
           </tr>
         {% endfor %}

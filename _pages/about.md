@@ -22,6 +22,8 @@ announcements:
 
 latest_posts:
   enabled: true
+  specific_posts:
+    - 2023-04-24-videos.md
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---

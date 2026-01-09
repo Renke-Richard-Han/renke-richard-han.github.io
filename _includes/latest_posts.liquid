@@ -1,22 +1,14 @@
 <div class="news">
-  {% assign posts = '' | split: '' %} 
-  {% if page.latest_posts.specific_posts %}  
-    {% for post_id in page.latest_posts.specific_posts %}  
-      {% assign post = site.posts | where: "name", post_id | first %}  
-      {% assign posts = posts | push: post %}  
-    {% endfor %}  
-  {% else %}  
-    {% assign posts = site.posts | limit: page.latest_posts.limit | sort: 'date' | reverse: true %}  
-  {% endif %}  
-
-  <div
+  {% if page.latest_posts != blank %}
+    {% assign latest_posts_size = site.posts | size %}
+    <div
       class="table-responsive"
       {% if page.latest_posts.scrollable and latest_posts_size > 3 %}
         style="max-height: 60vw"
       {% endif %}
     >
       <table class="table table-sm table-borderless">
-        {% assign latest_posts = posts %}
+        {% assign latest_posts = site.posts %}
         {% if page.latest_posts.limit %}
           {% assign latest_posts_limit = page.latest_posts.limit %}
         {% else %}
@@ -45,15 +37,15 @@
               {% else %}
                 <a class="news-title" href="{{ item.redirect | relative_url }}">{{ item.title }}</a>
               {% endif %}
-            
             {% comment %}  
             <div class="post-content">{{ post.content }}</div>
-            {% endcomment %}              
-            
+            {% endcomment %}        
             </td>
           </tr>
         {% endfor %}
       </table>
     </div>
-
+  {% else %}
+    <p>No posts so far...</p>
+  {% endif %}
 </div>

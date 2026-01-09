@@ -1,7 +1,6 @@
 <div class="news">
-  
+  {% assign posts = '' | split: '' %} 
   {% if page.latest_posts.specific_posts %}  
-    {% assign posts = '' | split: '' %}  
     {% for post_id in page.latest_posts.specific_posts %}  
       {% assign post = site.posts | where: "name", post_id | first %}  
       {% assign posts = posts | push: post %}  

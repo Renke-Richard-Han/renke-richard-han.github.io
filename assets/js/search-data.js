@@ -46,8 +46,8 @@ ninja.data = [{
           section: "News",},{id: "news-being-promoted-to-senior-staff-system-architect",
           title: 'Being promoted to Senior Staff System Architect',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-pure-software-solution-for-power-line-communication",
+          title: 'Pure software solution for power line communication',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";

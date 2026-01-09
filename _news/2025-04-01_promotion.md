@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Being promoted to **Senior Staff Engineer**
+Being promoted to **Senior Staff System Architect**

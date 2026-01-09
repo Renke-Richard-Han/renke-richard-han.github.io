@@ -7,4 +7,4 @@ inline: true
 related_posts: false
 ---
 
-Joining Infineon Technologies AG, Germany, as a **system engineer** for Industrial Division
+Joining Infineon Technologies AG, Germany, as a **System Engineer** for Industrial Division

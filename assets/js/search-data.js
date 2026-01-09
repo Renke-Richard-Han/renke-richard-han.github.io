@@ -40,7 +40,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-am-being-promoted-to-senior-engineer",
+            },},{id: "news-joining-power-electronics-group-uni-of-oxford-as-post-doctoral-research-associate-under-prof-dan-rogers",
+          title: 'Joining Power Electronics Group, Uni. of Oxford as **Post-Doctoral Research Associate** under Prof....',
+          description: "",
+          section: "News",},{id: "news-i-am-being-promoted-to-senior-engineer",
           title: 'I am being promoted to senior engineer',
           description: "",
           section: "News",},{id: "news-i-am-being-promoted-to-senior-staff-engineer",

@@ -47,7 +47,7 @@ ninja.data = [{
           title: 'Being promoted to senior engineer',
           description: "",
           section: "News",},{id: "news-being-promoted-to-senior-staff-engineer",
-          title: 'Being promoted to senior staff engineer.',
+          title: 'Being promoted to senior staff engineer',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

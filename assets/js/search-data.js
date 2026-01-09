@@ -46,17 +46,7 @@ ninja.data = [{
           section: "News",},{id: "news-being-promoted-to-senior-staff-system-architect",
           title: 'Being promoted to Senior Staff System Architect',
           description: "",
-          section: "News",},{id: "projects-pure-software-solution-for-power-line-communication",
-          title: 'Pure software solution for power line communication',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',

@@ -7,4 +7,4 @@ inline: true
 related_posts: false
 ---
 
-Joining Infineon Industrial Division as a **system engineer** in Warstein, Germany
+Joining Infineon Technologies AG, Germany, as a **system engineer** for Industrial Division

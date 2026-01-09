@@ -47,7 +47,7 @@ ninja.data = [{
           title: 'Being one of five repesentatives from University of Oxford attending Global Young Scientist...',
           description: "",
           section: "News",},{id: "news-joining-infineon-technologies-ag-germany-as-a-system-engineer-for-industrial-division",
-          title: 'Joining Infineon Technologies AG, Germany, as a system engineer for Industrial Division',
+          title: 'Joining Infineon Technologies AG, Germany, as a System Engineer for Industrial Division',
           description: "",
           section: "News",},{id: "news-being-promoted-to-senior-system-engineer",
           title: 'Being promoted to Senior System Engineer',

@@ -9,7 +9,6 @@
 # arxiv_id: # your arXiv author ID
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
-cv_pdf: /assets/pdf/CV_Renke_HAN.pdf # path to your CV PDF file
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: renkehan1991@gmail.com # your email address
@@ -41,6 +40,7 @@ scholar_userid: 10_G8DYAAAAJ # your Google Scholar ID
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
+cv_pdf: /assets/pdf/CV_Renke_HAN.pdf # path to your CV PDF file
 strava_userid: 65386382 # your strava user id
 # telegram_username: # your Telegram user name
 # unsplash_id: # your unsplash id

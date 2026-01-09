@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Renke Han being promoted to sensior staff engineer
+Renke Han is promoted to be **senior staff engineer**.

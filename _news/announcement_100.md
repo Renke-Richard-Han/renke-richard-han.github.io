@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I am being promoted to **senior staff engineer**.
+Being promoted to **senior staff engineer**.

@@ -7,4 +7,4 @@ inline: true
 related_posts: false
 ---
 
-Starting as a **staff system architect** at Infineon Automotive Division resposible for AURIX^TM^ Microcontroller in Münich, Germany
+Start as a **staff system architect** at Infineon Automotive Division resposible for AURIX^TM^ Microcontroller in Münich, Germany

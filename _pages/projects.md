@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: This page is still under constructions, stay tuned!
+description: This page is still under construction, stay tuned!
 nav: true
 nav_order: 3
 display_categories: [work, fun]

@@ -46,8 +46,11 @@
               {% else %}
                 <a class="news-title" href="{{ item.redirect | relative_url }}">{{ item.title }}</a>
               {% endif %}
-              <div class="post-content">{{ post.content }}</div>  
-              
+            
+            {% comment %}  
+            <div class="post-content">{{ post.content }}</div>
+            {% endcomment %}              
+            
             </td>
           </tr>
         {% endfor %}

@@ -40,8 +40,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-joining-power-electronics-group-uni-of-oxford-as-post-doctoral-research-associate-under-prof-dan-rogers",
-          title: 'Joining Power Electronics Group, Uni. of Oxford as Post-Doctoral Research Associate under Prof....',
+            },},{id: "news-move-to-oxford-uk-joining-power-electronics-group-uni-of-oxford-as-post-doctoral-research-associate-under-prof-dan-rogers",
+          title: 'Move to Oxford, UK, joining Power Electronics Group, Uni. of Oxford as Post-Doctoral...',
           description: "",
           section: "News",},{id: "news-being-one-of-five-repesentatives-from-university-of-oxford-attending-global-young-scientist-summit-official-report",
           title: 'Being one of five repesentatives from University of Oxford attending Global Young Scientist...',

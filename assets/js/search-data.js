@@ -56,7 +56,7 @@ ninja.data = [{
           title: 'Move to Münich, start as a Staff System Architect at Infineon Automotive Division...',
           description: "",
           section: "News",},{id: "news-being-promoted-to-senior-staff-engineer",
-          title: 'Being promoted to senior staff engineer',
+          title: 'Being promoted to Senior Staff Engineer',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

@@ -40,8 +40,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-am-being-promoted-to-senior-engineer",
+          title: 'I am being promoted to senior engineer',
           description: "",
           section: "News",},{id: "news-renke-han-is-promoted-to-be-senior-staff-engineer",
           title: 'Renke Han is promoted to be senior staff engineer.',

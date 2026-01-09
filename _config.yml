@@ -205,6 +205,7 @@ exclude:
   - _post/2023-04-25-audios.md
   - _post/2024-01-27-advanced-images.md
   - _post/2024-12-04-photo-gallery.md
+  - _news/announcement_2.md
 keep_files:
   - CNAME
   - .nojekyll

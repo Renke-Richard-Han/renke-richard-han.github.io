@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am being promoted to senior engineer
+Being promoted to **senior engineer**

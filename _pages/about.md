@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a principal system architect and technical lead for Automotive Microcontroller AURIX<sup>TM</sup> for [Infineon Technologies AG](https://www.infineon.com/), Germany, with focusing on powertrain application (Internal combustine engine, traction inverter, on-oboard charger, battery management system). As a technical lead under 1B revenue product line, I am harmonizing the marketing and technical perspectives with strong business driven mindset.
+I am a senior staff system architect and technical lead for Automotive Microcontroller AURIX<sup>TM</sup> for [Infineon Technologies AG](https://www.infineon.com/), Germany, with focusing on powertrain application (Internal combustine engine, traction inverter, on-oboard charger, battery management system). As a technical lead under 1B revenue product line, I am harmonizing the marketing and technical perspectives with strong business driven mindset.
     
 I obtained my Ph.D. degree in power electronics systems from [Aalborg University](https://www.energy.aau.dk/laboratories/microgrids-and-energy-internet-laboratory) under Prof. Josep Guerrero, Denmark at 2018. In Spring 2017, I was a Visiting Scholar with Laboratoire d’Automatique , [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/labs/decode/) under Prof. Giancarlo Ferrari Trecate, Switzerland. I have been as a Postdoctoral Research Associate under Prof. Daniel Rogers from 2018 to 2021 in Power Electronics Group, [University of Oxford](https://eng.ox.ac.uk/power-electronics-group), U.K.,
 

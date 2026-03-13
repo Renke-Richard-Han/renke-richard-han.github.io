@@ -46,7 +46,7 @@ ninja.data = [{
           section: "News",},{id: "news-being-promoted-to-senior-staff-system-architect",
           title: 'Being promoted to Senior Staff System Architect',
           description: "",
-          section: "News",},{id: "news-invited-speech-boosting-oem-profitability-aurixtm-tc4x-ppu-transforms-your-e-drivetrain-at-embedded-world-2026-link",
+          section: "News",},{id: "news-invited-speech-boosting-oem-profitability-aurixtm-tc4x-ppu-transforms-your-e-drivetrain-at-embedded-world-2026-slide",
           title: 'Invited Speech Boosting OEM Profitability: AURIXTM TC4x PPU Transforms Your E‑Drivetrain at Embedded...',
           description: "",
           section: "News",},{

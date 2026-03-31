@@ -49,6 +49,9 @@ ninja.data = [{
           section: "News",},{id: "news-invited-speech-boosting-oem-profitability-aurixtm-tc4x-ppu-transforms-your-e-drivetrain-at-embedded-world-2026-slide-video",
           title: 'Invited Speech Boosting OEM Profitability: AURIXTM TC4x PPU Transforms Your E‑Drivetrain at Embedded...',
           description: "",
+          section: "News",},{id: "news-being-promoted-to-principal-system-architect",
+          title: 'Being promoted to Principal System Architect',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',

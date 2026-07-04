@@ -52,7 +52,7 @@ ninja.data = [{
           section: "News",},{id: "news-being-promoted-to-principal-system-architect",
           title: 'Being promoted to Principal System Architect',
           description: "",
-          section: "News",},{id: "news-paper-embedded-implementation-of-a-thermal-coupling-matrix-using-aurix-tc4x-parallel-processing-unit-for-xev-applications-accepted-by-pcim-2026-co-author-with-infineon-motor-control-fellow-mark-münzer-poster",
+          section: "News",},{id: "news-paper-embedded-implementation-of-a-thermal-coupling-matrix-using-aurix-tc4x-parallel-processing-unit-for-xev-applications-accepted-by-pcim-2026-co-author-with-infineon-motor-control-fellow-mark-münzer-paper-poster",
           title: 'Paper Embedded Implementation of a Thermal Coupling Matrix Using AURIX TC4x Parallel Processing...',
           description: "",
           section: "News",},{

@@ -55,6 +55,9 @@ ninja.data = [{
           section: "News",},{id: "news-paper-embedded-implementation-of-a-thermal-coupling-matrix-using-aurix-tc4x-parallel-processing-unit-for-xev-applications-accepted-by-pcim-2026-co-author-with-infineon-motor-control-fellow-mark-münzer-paper-poster",
           title: 'Paper Embedded Implementation of a Thermal Coupling Matrix Using AURIX TC4x Parallel Processing...',
           description: "",
+          section: "News",},{id: "news-publish-white-paper-infineon-automotive-microcontroller-selection-guidelines-for-obc-and-hv-lv-dcdc-at-www-infineon-com-paper",
+          title: 'Publish White Paper Infineon Automotive Microcontroller Selection Guidelines for OBC and HV/LV DCDC...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',

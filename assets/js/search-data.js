@@ -58,6 +58,9 @@ ninja.data = [{
           section: "News",},{id: "news-publish-white-paper-infineon-automotive-microcontroller-selection-guidelines-for-obc-and-hv-lv-dcdc-at-www-infineon-com-paper",
           title: 'Publish White Paper Infineon Automotive Microcontroller Selection Guidelines for OBC and HV/LV DCDC...',
           description: "",
+          section: "News",},{id: "news-invited-speech-aurixtm-tc4x-ppu-two-paths-to-oem-profitability-in-the-e-drivetrain-at-electronica-automotive-forum-2026-link",
+          title: 'Invited Speech AURIXTM TC4x PPU: Two Paths to OEM Profitability in the E...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
